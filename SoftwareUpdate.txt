@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
