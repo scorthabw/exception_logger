@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
