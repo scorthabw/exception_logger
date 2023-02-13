@@ -1,1 +1,1 @@
-example Google Colab
+Optimize function calls to method calls (#8507)
