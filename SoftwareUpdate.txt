@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
