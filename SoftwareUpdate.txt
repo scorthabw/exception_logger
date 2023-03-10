@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
