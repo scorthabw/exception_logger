@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Replace onnx2tf usage from CLI to Python (#8429)
