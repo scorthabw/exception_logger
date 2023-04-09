@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update fraction arg to employ a random selection (#8234)
