@@ -1,1 +1,1 @@
-fix predict with class filter
+Add Weights & Biases Docs integrations page (#7199)
