@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Improve Docs Modes tables (#8266)
