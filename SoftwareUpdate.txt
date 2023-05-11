@@ -1,1 +1,1 @@
-ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
