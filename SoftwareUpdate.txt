@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add distance calculation feature in vision-eye (#8616)
