@@ -1,1 +1,1 @@
-Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
