@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
