@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Clean up unused imgsz (#7771)
