@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
