@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Update Twitter icon in Docs (#7711)
