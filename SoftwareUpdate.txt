@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
