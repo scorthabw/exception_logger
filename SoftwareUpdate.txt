@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add domain checks to CI docs page (#8714)
