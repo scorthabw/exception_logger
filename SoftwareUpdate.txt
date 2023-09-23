@@ -1,1 +1,1 @@
-Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
