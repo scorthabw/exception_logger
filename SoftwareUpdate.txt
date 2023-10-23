@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Move Explorer tests to scheduled CI (#8305)
