@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
