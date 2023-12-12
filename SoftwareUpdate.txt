@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Update Dockerfile for Raspberry Pi Support (#8123)
