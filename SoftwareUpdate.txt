@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
