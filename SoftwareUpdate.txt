@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
