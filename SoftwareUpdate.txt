@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
