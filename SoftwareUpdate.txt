@@ -1,1 +1,1 @@
-add yolov10
+Clean up unused imgsz (#7771)
