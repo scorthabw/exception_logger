@@ -1,1 +1,1 @@
-add yolov10
+Fix Multi-GPU resume bug (#7328)
