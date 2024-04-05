@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
