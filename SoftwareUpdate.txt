@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
