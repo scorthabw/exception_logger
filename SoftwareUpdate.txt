@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
