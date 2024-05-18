@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
