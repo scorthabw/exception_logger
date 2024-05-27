@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
